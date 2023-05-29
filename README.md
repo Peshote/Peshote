@@ -14,7 +14,17 @@
 
 ## ⚡GitHub Stats
 <a href="https://github.com/Peshote">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Peshote&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" /> <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peshote&langs_count=6&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true&hide=smalltalk,shell,html,scss,css" /> </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peshote&theme=transparent" />
+</a>
+<a href="https://github.com/Peshote">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peshote&hide_border=true&card_width=338&theme=transparent" />
+</a>
+<a href="https://github.com/Peshote">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peshote&theme=transparent" />
+</a>
+<a href="https://github.com/Peshote">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peshote&langs_count=6&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" />
+</a>
 
 ## ⚡GitHub Trophies
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Peshote&column=7" alt="GitHub Trophies" /></a>
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Peshote&column=7" /></a>
