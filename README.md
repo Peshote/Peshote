@@ -7,6 +7,7 @@
 [![StackOverflow](https://img.shields.io/badge/-stackOverflow-000000?style=flat-square&logo=Stackoverflow&logoColor=orange)](https://stackoverflow.com/users/21161114/peshote?tab=profile)
 - I’m interested in C#, .NET Framework
 - I’m currently learning Programming with C# at SoftUni Bulgaria
+- You can reach me by E-mail: Peshote@students.softuni.bg
 
 ## ⚡Certificates
 <a href="https://softuni.bg/certificates/details/158366/caa45081" > Programming Basics with C# </a>
